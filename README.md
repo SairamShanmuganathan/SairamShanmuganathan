@@ -7,19 +7,19 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/sairam-shanmuganathan/" style="margin-right: 10px;">
-  <img align="left" alt="Sairam's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
+  <img align="left" alt="Sairam's Linkedin" width="24px" src="https://img.icons8.com/?size=100&id=8808&format=png&color=FFFFFF" /> 
 </a>
 
 <a href="https://github.com/sairamshanmuganathan" style="margin-right: 10px;">
-  <img align="left" alt="Sairam's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Sairam's Github" width="24px" src="https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=FFFFFF" />
 </a>
 
 <a href="https://twitter.com/sairamshan98" style="margin-right: 10px;">
-  <img align="left" alt="Sairam's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sairam's Twitter" width="24px" src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=FFFFFF" />
 </a>
 
 <a href="https://www.instagram.com/sairam_shanmuganathan">
-    <img align="left" alt="Sairam's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+    <img align="left" alt="Sairam's Instagram" width="24px" src="https://img.icons8.com/?size=100&id=48841&format=png&color=FFFFFF" />
 </a>
 
 <br />
